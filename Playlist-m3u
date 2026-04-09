@@ -1,0 +1,24 @@
+#EXTM3U
+
+# --- CANALI ITALIANI ---
+#EXTINF:-1 group-title="Italia",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+
+#EXTINF:-1 group-title="Italia",TGCOM24
+https://live2.msf.cdn.mediaset.net/live/ch-tgcom24/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Italia",Sky TG24
+https://hlslive-web-gcdn.sky.it/skyTG24/skyTG24.isml/playlist.m3u8
+
+
+# --- SPORT ---
+#EXTINF:-1 group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Sport",FIFA+
+https://airstreaming.akamaized.net/fifa/master.m3u8
+
+#EXTINF:-1 group-title="Sport",Sportitalia (test)
+https://live.sportitalia.com/stream.m3u8
+
+Crea link m3u
